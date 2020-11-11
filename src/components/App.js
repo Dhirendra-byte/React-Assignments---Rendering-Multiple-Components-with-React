@@ -4,9 +4,9 @@ import '../styles/App.css';
 const App = () => {
   return (
     <>
-  <div value="data-ns-test">
-    <h1 value="project-name" >Medical Related Website</h1>
-    <p value="project-description" >project descryption is here......</p>
+  <div data-ns-test>
+    <h1 data-ns-test="project-name" >Medical Related Website</h1>
+    <p data-ns-test="project-description" >project descryption is here......</p>
     </div>
     </>
   )
